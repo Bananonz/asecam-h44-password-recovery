@@ -156,7 +156,7 @@ Until Vatilon releases a patch:
 
 | Date | Event |
 |------|-------|
-| March 2026 | Vulnerability discovered and confirmed on ASECAM H44 |
+| November 2025 | Vulnerability discovered and confirmed on ASECAM H44 |
 | March 2026 | Public disclosure (vendor contact attempted) |
 | — | Vendor patch: **not yet released** |
 
