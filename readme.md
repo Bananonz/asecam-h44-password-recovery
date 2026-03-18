@@ -24,7 +24,7 @@ The web interface (`thttpd`) on these cameras exposes a CGI endpoint at:
 /cgi-bin/web.cgi?mod=session&cmd=login1
 ```
 
-This endpoint **issues a valid Session-Id token without verifying that the supplied credentials are correct**. The token can then be used to call other API endpoints — including one that returns all user accounts with **passwords stored and returned in plaintext**.
+This endpoint **issues a valid Session-Id token without verifying that the supplied credentials are correct**. The token can then be used to call other API endpoints - including one that returns all user accounts with **passwords stored and returned in plaintext**.
 
 ### Additional attack surface
 
@@ -64,7 +64,7 @@ Write-Host "Session token: $sid"
 
 > `YWRtaW46YWRtaW4=` is the Base64 encoding of `admin:admin` - the credentials do not need to be correct for the token to be issued.
 
-### Step 3 — Retrieve accounts and passwords
+### Step 3 - Retrieve accounts and passwords
 
 Run immediately after Step 2 (tokens expire quickly):
 
@@ -158,7 +158,7 @@ Until Vatilon releases a patch:
 |------|-------|
 | November 2025 | Vulnerability discovered and confirmed on ASECAM H44 |
 | March 2026 | Public disclosure (vendor contact attempted) |
-| — | Vendor patch: **not yet released** |
+| - | Vendor patch: **not yet released** |
 
 ---
 
