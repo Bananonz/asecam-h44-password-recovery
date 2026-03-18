@@ -1,4 +1,4 @@
-# CVE-2025-63667 - Vatilon IP Camera Improper Authentication (Password Recovery)
+# CVE-2025-63667 - Vatilon IP Camera password recovery (via improper authentication)
 
 > **Affected brands:** ASECAM, SIMICAM, KEVIEW (and other Vatilon OEM white-label cameras)  
 > **Affected models:** H44, H43 (and likely other models with Vatilon firmware)  
