@@ -34,7 +34,7 @@ This endpoint **issues a valid Session-Id token without verifying that the suppl
 
 ---
 
-## How to Recover Your Own Camera Password
+## How to recover your own camera password
 
 > **Only do this on devices you own.** Accessing devices you do not own is illegal in most countries.
 
